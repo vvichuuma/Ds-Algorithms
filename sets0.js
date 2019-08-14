@@ -99,4 +99,4 @@ setB.add("d");
 setB.add("a");
 //If setA is a subset of setB: 
 console.log(setA.subset(setB));
-console.log(setA.intersection(setB).values);
+

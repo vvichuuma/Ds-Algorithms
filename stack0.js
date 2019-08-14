@@ -29,3 +29,6 @@ if(rword == word){
 }else{
     console.log("It is not a palindrome!!");
 }
+
+
+
